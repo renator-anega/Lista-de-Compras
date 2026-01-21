@@ -25,7 +25,7 @@ export function criarItemDaLista() {
 
     const buttonRemove = document.createElement("button");
     buttonRemove.classList.add("item-lista-button");
-    buttonRemove.innerHTML = '<img src="./img/delete.svg    " alt="Excluir">';
+    buttonRemove.innerHTML = '<img src="./img/delete.svg"alt="Excluir">';
 
     buttonRemove.addEventListener("click", function() {
         itemDaLista.remove();
