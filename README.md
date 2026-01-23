@@ -21,8 +21,9 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto inicial](https://github.com/alura-cursos/3801-javascript-para-web/tree/projeto-base) ou [baixá-lo](https://github.com/alura-cursos/3801-javascript-para-web/archive/refs/heads/projeto-base.zip).
+Página Online: https://renato-aranega.github.io/Lista-de-Compras/
 
+Código Base do Curso: Você pode [acessar o código fonte original](https://github.com/alura-cursos/3801-javascript-para-web/tree/projeto-base) ou [baixá-lo](https://github.com/alura-cursos/3801-javascript-para-web/archive/refs/heads/projeto-base.zip).
 ## 🛠️ Abrir e rodar o projeto
 
 Após baixar o projeto, você pode abrir com o Visual Studio Code. Para isso, no menu superior, clique em:
